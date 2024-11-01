@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'dancing_scriptregular';
+    src: url('https://tuphuong98.iwedding.info/dancingscript-regular.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/dancingscript-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dancing_scriptbold';
+    src: url('https://tuphuong98.iwedding.info/dancingscript-bold.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/dancingscript-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaabold';
+    src: url('https://tuphuong98.iwedding.info/comfortaa-bold.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/comfortaa-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaalight';
+    src: url('https://tuphuong98.iwedding.info/comfortaa-light.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/comfortaa-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaaregular';
+    src: url('https://tuphuong98.iwedding.info/comfortaa-regular.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/comfortaa-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'patrick_handregular';
+    src: url('https://tuphuong98.iwedding.info/patrickhand-regular.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/patrickhand-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'prataregular';
+    src: url('https://tuphuong98.iwedding.info/prata-regular.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/prata-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pacificoregular';
+    src: url('https://tuphuong98.iwedding.info/pacifico-regular.woff2') format('woff2'),
+         url('https://tuphuong98.iwedding.info/pacifico-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UVN Buc Thu';
+    src: url('https://tuphuong98.iwedding.info/UVN_Buc_Thu.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Miller Banner';
+    src: url('https://tuphuong98.iwedding.info/SVN-Miller-Banner.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
